@@ -1,4 +1,4 @@
-// script.js
+d// script.js
 
 // Product data (could be fetched from a JSON file)
 const PRODUCTS = [
